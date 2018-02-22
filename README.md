@@ -29,17 +29,17 @@ const botToken = ""; /*You'll have to set this yourself; read more
 
 For the bot to work properly, you must:
 
-1.) Fill in the yourID variable; you can get it in any discord channel by typing "\@YOUR_NAME". For me, it would be \@Night.
+- Fill in the yourID variable; you can get it in any discord channel by typing "\@YOUR_NAME". For me, it would be \@Night.
 
-2.) Adjust the setup command, if you do not like the default one
+- Adjust the setup command, if you do not like the default one
 
-3.) Adjust the initial message, if you do not like the default one
+- Adjust the initial message, if you do not like the default one
 
-4.) Adjust the roles to ones that are actually in your server; **make sure the bot's role is high enough on the list in your server's settings that it can assign the them properly**.
+- Adjust the roles to ones that are actually in your server; **make sure the bot's role is high enough on the list in your server's settings that it can assign the them properly**.
 
-5.) Replace the reactions with the ones of your choosing. **Note:** to get the value for the reaction, do NOT simply type `:my_reaction:` and copy the result. You must type `\:my_reaction` with the backslash and copy that result after pressening enter. If done correctly, the reaction should appear smaller than usual.
+- Replace the reactions with the ones of your choosing. **Note:** to get the value for the reaction, do NOT simply type `:my_reaction:` and copy the result. You must type `\:my_reaction` with the backslash and copy that result after pressening enter. If done correctly, the reaction should appear smaller than usual.
 
-6.) Set up the bot and get the token. This [Github Wiki Page](here https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token) does a better job of expaining it than I ever could. An image of the permissions the bot needs can be [found here](https://i.imgur.com/PFDm3pH.png).
+- Set up the bot and get the token. This [Github Wiki Page](here https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token) does a better job of expaining it than I ever could. An image of the permissions the bot needs can be [found here](https://i.imgur.com/PFDm3pH.png).
 
 ## Conclusion 
 
